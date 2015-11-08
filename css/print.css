@@ -1,0 +1,34 @@
+* {
+	color: black;
+	background: transparent;
+	font-family: serif;
+}
+* nav{
+	display: none;
+}
+* footer{
+	display: none;
+}
+img {
+	display: none;
+}
+
+* {
+	background-image: none;
+}
+
+header {
+	border: none;
+}
+h1{
+	font-size: 20pt;
+}
+h2{
+	font-size: 15pt;
+}
+p{
+	font-size: 12pt;
+}
+a[href^="http://"]:after {
+	content: " (" attr(href) ") ";
+}
