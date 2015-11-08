@@ -5,11 +5,10 @@ body {
   color: rgb(0,0,0);
   background-image:url(../img/bg.png);
   font-size: 15px;
-  font-family: 'Bitter', serif;
   width:80%;
   margin-left:auto;
   margin-right:auto;
-  font-weight: 100;
+
 }
 
 a {
@@ -63,9 +62,11 @@ section {
   margin: 48px auto 0 auto;
   background-color: #ffffff;
   box-shadow: 3px 3px 3px #888888;
+  font-weight: 100;
 
 }
 footer {
+  font-family: 'Bitter', serif;
   color: rgb(0,94,255);
   margin: 48px auto 0 auto;
   border-top: 1px solid #cdcdcd;
