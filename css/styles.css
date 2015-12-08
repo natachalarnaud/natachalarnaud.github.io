@@ -1,0 +1,72 @@
+
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
+body { 
+  padding-top: 70px; 
+  background-color: #000;
+  color: #fff;
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px;
+
+}
+a{
+	color: #000;
+}
+.container-fluid {
+	max-width: 1200px;
+}
+.thumbnail {
+	margin-bottom: 5px;
+}
+.margin-video {
+  margin-bottom: 2em;
+}
+.margin-footer
+{
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+.navbar{
+	background-color: #fff;
+}
+.page-header h1 {
+  font-size: 55px !important;
+}
+.copy p {
+  font-family: 'Poiret One', cursive;
+}
+ul.nav li a:hover, ul.nav li a:active {
+  color: #B0B0B0!important;
+}
+ul.nav  a {
+  color: #000 !important;
+  font-size: 22px !important;
+  font-family: 'Poiret One', cursive;
+}
+a {
+  color: #000 !important;
+  font-size: 26px !important;
+}
+.img-responsive {
+  margin: 0 auto;
+}
+section {
+  width: 75%;
+  padding: 32px;
+  margin: 48px auto 0 auto;
+  background-color: #ffffff;
+  color: #000;
+  box-shadow: 3px 3px 3px #888888;
+
+}
+header {
+  width: 75%;
+  padding: 32px;
+  margin: 48px auto 0 auto;
+  text-align: center;
+  font-weight: 300;
+  background-color: #ffffff;
+  color: #000;
+  box-shadow: 3px 3px 3px #888888;
+}
